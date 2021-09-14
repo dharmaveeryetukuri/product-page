@@ -1,0 +1,98 @@
+.product{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.readytoship{
+  padding: 2px 5px 2px 10px;
+  border-radius: 3px 0px 0px 3px;
+  background: linear-gradient(to right, #ff6600 0%, #ff5050 100%);
+  margin: 0px;
+}
+.instock{
+  padding: 2px 10px 2px 10px;
+  border-radius: 0px 3px 3px 0px;
+  color: #FF6600;
+  background-color: #FFF0E6;
+  margin: 0px;
+}
+.fastdispatch{
+  padding: 2px 10px 2px 10px;
+  border-radius: 0px 3px 3px 0px;
+  color: #FF6600;
+  background-color: #FFF0E6;
+  margin: -1px;
+}
+.lable{
+  padding: 5px;
+  border-radius: 2px 2px 2px 2px;
+  width: 500px;
+  /* height: 16px; */
+  color: white  ; 
+  /* background-color:#FF6347; */
+  font-size: 14px;
+  /* line-height: 16px; */
+}
+
+.title{
+  color: #333333;
+  font-size: 16px;
+  line-height: 24px;
+  width: 600px;
+  text-align: left;
+}
+
+.hotsale{
+  padding: 4px;
+  border-radius: 3px;
+  width: 300px;
+  height: 16px;
+  background-color:#EDF0F3;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: left;
+}
+
+.options{
+  text-indent: 2em;
+}
+.trade{
+  color: rgb(133, 130, 130);
+  font-size: 14px;
+  font-weight: bold;
+}
+.protects{
+  color: gray;
+  font-size: 13px;
+}
+a:visited { text-decoration: none; }
+a:link { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.payments{
+  color: gray;
+  font-size: 13px;
+  
+}
+.payments:a:hover{
+  text-decoration: none;
+}
+
+.matchexpobox{
+  /* position: fixed; */
+  padding: 1px 1px 1px 1px;
+  border-radius: 0px 3px 3px 0px;
+  background-color: #FFF0E6;
+}
+.matchexpoimg{
+  width: 74px;
+  height: 40px;
+}
+.freeshipiing{
+  position: fixed;
+  padding: 10px 10px 10px 10px;
+  border-radius: 0px 3px 3px 0px;
+  color: #FF6600;
+  background-color: #FFF0E6;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+}
